@@ -7,5 +7,7 @@ public class XinChao {
 		System.out.println("Tôi là Ngô Quang Duy Hoài đang học Java");
 		System.out.print("Tôi đang thêm dòng thứ 2");
 	}
-
+	public static void main(String[] args) {
+		
+	}
 }
